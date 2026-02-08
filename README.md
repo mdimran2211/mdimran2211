@@ -48,6 +48,12 @@
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql)
+![DSA](https://img.shields.io/badge/DSA-practice-green)
+![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-lightblue?logo=numpy)
+
 
 
 
