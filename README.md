@@ -39,7 +39,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 [![Kaggle](https://img.shields.io/badge/Kaggle-mdimran99-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdimran99)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mdimran04956-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mdimran04956/)
+
 
 <img src="https://leetcard.jacoblin.cool/mdimran04956?theme=dark&font=Fira+Code" />
 ---
