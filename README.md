@@ -41,7 +41,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-mdimran99-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdimran99)
 
 
-<img src="https://leetcard.jacoblin.cool/mdimran04956?theme=dark&font=Fira+Code" />
+
 ---
 
 ### 💻 Coding & DSA
