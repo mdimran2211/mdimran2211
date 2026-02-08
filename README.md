@@ -30,7 +30,7 @@
 - LinkedIn: www.linkedin.com/in/md-imran-5ba288272
 - GitHub: https://github.com/mdimran2211
 - Kaggle: https://www.kaggle.com/mdimran99
-- LeetCode: https://leetcode.com/mdimran04956
+
 
 ### 🏅 Badges
 
