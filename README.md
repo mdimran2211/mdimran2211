@@ -46,10 +46,9 @@
 
 ### 💻 Coding & DSA
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+
 
 
 
