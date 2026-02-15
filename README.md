@@ -17,7 +17,15 @@
 - DSA
 
 ---
+## 📊 GitHub Stats
 
+![GitHub Streak](https://streak-stats.demolab.com?user=mdimran2211&theme=radical&hide_border=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdimran2211&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdimran2211&layout=compact&theme=radical)
+
+---
 ## 📊 Data Science Projects
 🔹 Netflix Data Analysis  
 🔹 IPL Data Analysis  
