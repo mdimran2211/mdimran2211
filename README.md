@@ -17,14 +17,18 @@
 - DSA
 
 ---
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdimran2211&show_icons=true&theme=tokyonight)
+# 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdimran2211&layout=compact&theme=tokyonight)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdimran2211&theme=tokyo-night)
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdimran2211&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mdimran2211&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdimran2211&layout=compact&theme=tokyonight)
 
 
 
