@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Imran
 
 🎓 B.Tech Student |  Data Scientist  | Backend developer
+
 💻 Learning Python, SQL, Data Science & DSA  
 🚀 Building real-world projects and improving daily  
 
